@@ -1,0 +1,11 @@
+/Users/arwenorford/workspace/production/bank/bin/Debug/netcoreapp2.0/bank.deps.json
+/Users/arwenorford/workspace/production/bank/bin/Debug/netcoreapp2.0/bank.runtimeconfig.json
+/Users/arwenorford/workspace/production/bank/bin/Debug/netcoreapp2.0/bank.runtimeconfig.dev.json
+/Users/arwenorford/workspace/production/bank/bin/Debug/netcoreapp2.0/bank.dll
+/Users/arwenorford/workspace/production/bank/bin/Debug/netcoreapp2.0/bank.pdb
+/Users/arwenorford/workspace/production/bank/obj/Debug/netcoreapp2.0/bank.csprojAssemblyReference.cache
+/Users/arwenorford/workspace/production/bank/obj/Debug/netcoreapp2.0/bank.csproj.CoreCompileInputs.cache
+/Users/arwenorford/workspace/production/bank/obj/Debug/netcoreapp2.0/bank.AssemblyInfoInputs.cache
+/Users/arwenorford/workspace/production/bank/obj/Debug/netcoreapp2.0/bank.AssemblyInfo.cs
+/Users/arwenorford/workspace/production/bank/obj/Debug/netcoreapp2.0/bank.dll
+/Users/arwenorford/workspace/production/bank/obj/Debug/netcoreapp2.0/bank.pdb
